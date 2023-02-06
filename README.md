@@ -29,3 +29,9 @@ Example. :
 
 •	Street address 2 is not a mandatory field, on submit click if the field is blank then its value in the table should be blank as well.   
 
+
+Steps to Run Project.   
+1.  Navigate to the Main directory.  
+2.  Select form.html.  
+3.  Run in your browser.  
+
